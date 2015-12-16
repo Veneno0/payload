@@ -1,0 +1,4 @@
+php://filter在文件包含漏洞中的利用——读取php文件源码内容
+*************************************************************
+php://filter/read=convert.base64-encode/resource='路径'
+base64decode.
